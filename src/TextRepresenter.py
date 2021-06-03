@@ -13,7 +13,9 @@ from src.porter import stem
 
 
 class TextRepresenter(object):
-
+    '''
+    classdocs
+    '''
 
 
     def __init__(self):
